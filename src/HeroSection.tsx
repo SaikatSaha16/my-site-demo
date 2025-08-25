@@ -67,7 +67,6 @@ export function HeroSection({ onWatchDemo }: HeroProps) {
                 >
                     <p className="text-2xl md:text-3xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
                         Transform your creative potential with industry-leading courses in UI/UX Design and 3D Animation.
-                        Join thousands of professionals who've elevated their skills with our expert-crafted curriculum.
                     </p>
                     <br />
                     <br />

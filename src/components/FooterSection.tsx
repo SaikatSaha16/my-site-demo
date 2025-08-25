@@ -42,7 +42,7 @@ export default function FooterSection() {
                 />
             </div>
 
-            <div className="relative z-10 mx-auto max-w-7xl px-6 pt-32 pb-28">
+            <div className="relative z-10 mx-auto max-w-7xl px-6 pt-40 pb-36">
                 {/* Main Footer Content */}
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
                     {/* Company Info */}
